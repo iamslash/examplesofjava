@@ -15,4 +15,5 @@
 
 ## Collection Framework
 
-- ![Collection Framework](https://en.wikibooks.org/wiki/Java_Programming/Collection#/media/File:Java_collection_implementation.jpg)
+- ![Collection Framework](https://upload.wikimedia.org/wikibooks/en/thumb/c/ca/Java_collection_implementation.jpg/700px-Java_collection_implementation.jpg)
+
